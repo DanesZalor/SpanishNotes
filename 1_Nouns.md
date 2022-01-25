@@ -21,6 +21,7 @@ However, the appropriate article to be used with a noun changes depending on the
 | el estudiante | the student<sup>♂</sup> | 
 | la estudiante | the student<sup>♀</sup> |
 
+
 Some words for people have only **one** possible gender, regardless if they refer to a male or female.
 | | |
 |-|-|
@@ -47,7 +48,7 @@ Just like in english, spanish sometimes separate words for mae and female animal
 
 > when you don't know or care what the sex o an animal is, you can usually use the masculine form as a general word
 
-However, for some animals, their spanish word does not change
+However, for some animals, their spanish word does not change regardless of gender.
 | | |
 |-|-|
 | *el* sapo | the toad |
@@ -88,3 +89,18 @@ The following are also masculine:
 | | la libertad | freedom |
 | | la multitud | the crowd |
 
+some words referring to people end in **-a** regardless of gender. Only the article can specify which gender is being referred.
+| | |
+|-|-|
+| el dentista | the dentist<sup>♂</sup> |
+| la dentista | the dentist<sup>♀</sup> |
+| el deportista | the sportsman |
+| la deportita | the sportswoman | 
+
+many masculine nouns that end with a consonant become feminine by adding **-a**.
+| | |
+|-|-|
+| el español | the Spanish man | 
+| el española | the Spanish woman |
+| el profesor | the teacher<sup>♂</sup> |
+| la profesora | the teacher<sup>♀</sup> |
