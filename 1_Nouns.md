@@ -104,3 +104,10 @@ many masculine nouns that end with a consonant become feminine by adding **-a**.
 | el española | the Spanish woman |
 | el profesor | the teacher<sup>♂</sup> |
 | la profesora | the teacher<sup>♀</sup> |
+| un inglés | an Englishman | 
+| una inglesa | and Englishwoman |
+| un francés | a Frenchman |
+| una francesa | a Frenchwoman | 
+
+> **Tip**: if the last vowel of a masculine noune has an accent, this is dropped in feminine form
+
