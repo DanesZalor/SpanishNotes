@@ -1,12 +1,12 @@
 # Nouns
 a **noun** is a naming word for a living being, thing, or idea. for example: *woman, desk, happiness, Garfield*.
 
-### using nouns
 In spanish, all nouns are either *masculine* or *feminine*. Even The *"gender"* of words affect the form of other words use with it such as the adjectives and articles.
 - **el** or **un** if masculine
 - **la** or **una** if feminine
 > though there are exceptions to these rules.
 
+### nouns referring to people 
 | | |
 |--|--|
 | *el* hombre | the man   |
@@ -36,6 +36,7 @@ In english, we can sometimes make a word masculine or feminine by changing the e
 | el empleado | the employee<sup>♂</sup>
 | la empleada | the employee<sup>♀</sup>
 
+### nouns referring to animals
 Just like in english, spanish sometimes separate words for mae and female animals
 | | |
 |-|-|
@@ -55,6 +56,7 @@ However, for some animals, their spanish word does not change regardless of gend
 | *el* hámster | the hamster |
 | *la* tortuga | the tortoise |
 
+### nouns referrring to things
 In english, refer all things as 'it'. But in spanish, things also have gender.
 | masculine ending | examples | |
 |--|--|--|
@@ -97,6 +99,17 @@ some words referring to people end in **-a** regardless of gender. Only the arti
 | el deportista | the sportsman |
 | la deportita | the sportswoman | 
 
+Many nouns can be used to talk about men/women by simply changing the ending to **-o** or **-a**
+| | |
+|-|-|
+| el amigo | the friend<sup>♂</sup> |
+| la amiga | the friend<sup>♀</sup> |
+| el hermano | the brother<sup>♂</sup> |
+| la hermana | the sister<sup>♀</sup> |
+| el viudo | the widower |
+| la viuda | the widow |
+
+
 many masculine nouns that end with a consonant become feminine by adding **-a**.
 | | |
 |-|-|
@@ -111,3 +124,76 @@ many masculine nouns that end with a consonant become feminine by adding **-a**.
 
 > **Tip**: if the last vowel of a masculine noune has an accent, this is dropped in feminine form
 
+## Forming plurals
+In english, we have regular plural nouns (house → houses ; hoe → hoes) and irregular plural noun such as (mouse → mice; child → children).
+
+> Remember that you have to use **los** (for masculine) and **las** (for feminine)
+
+| | |
+|-|-|
+| el libro | the book
+| los libros | the books |
+| el hombre | the man |
+| los hombres | the men |
+| la profesora | the teacher<sup>♀</sup> |
+| las profesoras | the teachers<sup>♀</sup> |
+
+for nouns ending with consonants, add **-es**
+| | |
+|-|-|
+| el profesor | the teacher<sup>♂</sup> |
+| los profesores | the teachers<sup>♂ or ⚥</sup> |
+| las ciudad | the town/city |
+| las ciudades | the towns/cities |
+
+foreign words such as english ending with consonants in plural form just ends with **-s**
+| | |
+|-|-|
+| el disc-jokey | the DJ |
+| los disc-jockeys | the DJs |
+
+ words ending in **-s** which have an unstressed final vowel do not change in plural form
+ | | |
+ |-|-|
+ | el paraguas | the umbrella |
+ | los paraguas } the umbrellas |
+ | el lunes | (on) Monday |
+ | los lunes | (on) Mondays |
+
+most singular nouns ending with accented vowel add **-s** in plural form. but those ending in í (and sometimes ú) usually end with either **-es** or **-s**.
+
+| | |
+|-|-|
+| el café | the café |
+| los cafés | the cafés |
+| el sofá | the sofa |
+| los sofás | the sofas |
+| el jabalí | the boar |
+| los jabalíes (*or* jabalís) | the boars |
+
+### spelling changes with plurals 
+Singular nouns that ends with an accented vowel and either **-n** or **-s** drop the accent in plural form
+| | |
+|-|-|
+| la canción | the song |
+| las canciones | the songs |
+| el autobús | the bus |
+| los autobuses | the buses |
+
+singular nouns of more than one syllable which end with **-en** and don't have an accent, add one in plural form.
+
+| | |
+|-|-|
+| el examen | the exam |
+| los exámenes | the exams |
+| el joven | the youth |
+| los jóvenes | young people |
+
+singular nouns that ends with **-z** change to **-c** in plural form
+
+| | |
+|-|-|
+| la luz | the light |
+| la luces | the lights |
+| la vez | the time | 
+| la veces | the times |
