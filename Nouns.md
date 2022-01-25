@@ -53,3 +53,34 @@ However, for some animals, their spanish word does not change
 | *el* sapo | the toad |
 | *el* hámster | the hamster |
 | *la* tortuga | the tortoise |
+
+In english, refer all things as 'it'. But in spanish, things also have gender.
+| masculine ending | examples | |
+|--|--|--|
+| -o | el libro|the book
+| | el periódico | the newspaper |
+| but: | la mano | the hand |
+| | la foto | the photo |
+| | la moto | the motorbike |
+
+The following are also masculine:
+- name of days of the week and months of the year
+    - `Te veré el lunes`; I'll see you on monday
+- names of languages
+    - `el inglés`; English
+    - `el español`; Spanish
+    - `Estudio el español`; I'm studying Spanish.
+- names of rivers, mountains and seas
+    - `el Everest`; Everest
+    - `el Atlántico`; the Atlantic
+
+| feminine ending | examples | |
+|-|-|-|
+|
+|-a| la casa | the house
+| | la cara | the face |
+| but: | el día | the day
+| | el mapa | the map
+| | el planeta | the planet | 
+|
+|-ción<br>-sión |la lección | the lesson
