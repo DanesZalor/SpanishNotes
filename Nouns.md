@@ -57,7 +57,7 @@ However, for some animals, their spanish word does not change
 In english, refer all things as 'it'. But in spanish, things also have gender.
 | masculine ending | examples | |
 |--|--|--|
-| -o | el libro|the book
+| **-o** | el libro|the book
 | | el periódico | the newspaper |
 | but: | la mano | the hand |
 | | la foto | the photo |
@@ -76,11 +76,15 @@ The following are also masculine:
 
 | feminine ending | examples | |
 |-|-|-|
-|
-|-a| la casa | the house
+|**-a**| la casa | the house
 | | la cara | the face |
 | but: | el día | the day
 | | el mapa | the map
 | | el planeta | the planet | 
-|
-|-ción<br>-sión |la lección | the lesson
+|-**ción<br>-sión** |la lección | the lesson
+| | la estación | the station
+| | la expresión | the expression |
+| **-dad<br>-tad<br>-tud** | la ciudad | the city
+| | la libertad | freedom |
+| | la multitud | the crowd |
+
