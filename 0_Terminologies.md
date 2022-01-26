@@ -94,6 +94,13 @@ are words that replace nouns.
     is used to mention one or more unidentified objects. places, or person because the subject is unspecified.
 
     `ex: Any, either, nobody, someone, anyone, each, everything, all, both, several, much, etc.`
+- **interrogative pronouns** 
+    
+    like *who*, *what*, or *which*, used in questions.
+
+- **relative pronouns**
+
+    *who*, *which* or *that* which links two parts of a sentence together.
 
 
 ## verb 

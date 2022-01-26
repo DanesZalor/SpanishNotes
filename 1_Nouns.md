@@ -1,5 +1,5 @@
 # Nouns
-a **noun** is a naming word for a living being, thing, or idea. for example: *woman, desk, happiness, Garfield*.
+a **noun** is a naming word for a living being, thing, or idea. for example: *woman, desk, happiness, Garfield*. 
 
 In spanish, all nouns are either *masculine* or *feminine*. Even The *"gender"* of words affect the form of other words use with it such as the adjectives and articles.
 - **el** or **un** if masculine
