@@ -142,7 +142,7 @@ for nouns ending with consonants, add **-es**
 | | |
 |-|-|
 | el profesor | the teacher<sup>♂</sup> |
-| los profesores | the teachers<sup>♂ or ⚥</sup> |
+| los profesores | the teachers<sup>♂</sup> |
 | las ciudad | the town/city |
 | las ciudades | the towns/cities |
 

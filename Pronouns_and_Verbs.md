@@ -4,13 +4,10 @@ Example: *"My brother isn't here at the moment. **He**'ll be back in an hour."*
 
 | Singular | | Plural | |
 |-|-|-|-|
-| yo | I | nosotros | we<sup>♂</sup> | 
-| tú | you | nosotras | we<sup>♀</sup> |
-| él | he | vosotros | you<sup>♂</sup> |
-| ella | she | vosotras | you<sup>♀</sup> |
-| usted (Vd.) | you | ellos | they<sup>♂</sup> |
-| | | ellas | they<sup>♀</sup> |
-| | | ustedes (Vds.) | you |
+| yo | I | nosotros<br>nosotras | we<sup>♂</sup><br>we<sup>♀</sup>| 
+| tú | you | vosotros<br>vosotras | you<sup>♂</sup><br>you<sup>♀</sup> |
+| él<br>ella | he<br>she | ellos<br>ellas | they<sup>♂</sup><br>they<sup>♀</sup> |
+| usted (Vd.) | you | ustedes (Vds.) | you |
 
 > **tú** (you) and **él** (he) has an accent, not to be confused with **tu** (your) and **el** (the).
 
@@ -37,5 +34,6 @@ In Spanish however, we don't need them, instead the verb endings provide context
 | él es homosexual | he's gay |
 
 ## estar
+
 
 ## tener
