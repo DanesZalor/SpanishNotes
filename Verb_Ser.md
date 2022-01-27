@@ -1,34 +1,13 @@
-# Pronoun
-is a word you use instead of a noun such as *I*, *he*, *she*, *they*, etc. Pronouns stand in for nouns when it the subject is specified.
-Example: *"My brother isn't here at the moment. **He**'ll be back in an hour."*
-
-| Singular | | Plural | |
-|-|-|-|-|
-| yo | I | nosotros<br>nosotras | we<sup>♂</sup><br>we<sup>♀</sup>| 
-| tú | you | vosotros<br>vosotras | you<sup>♂</sup><br>you<sup>♀</sup> |
-| él<br>ella | he<br>she | ellos<br>ellas | they<sup>♂</sup><br>they<sup>♀</sup> |
-| usted (Vd.) | you | ustedes (Vds.) | you |
-
-> **tú** (you) and **él** (he) has an accent, not to be confused with **tu** (your) and **el** (the).
-
-> Use **usted** when addressing people with respect, or formality. **tú** when addressing someone casually or intimately.
-
-> **Vd.** and **Vds.** are abbreviations often used instead of **usted** and **ustedes**
-
-In English, we use subject pronouns all the time when using verbs - *__I__ walk, __you__ eat, __they__ are going.*
-In Spanish however, we don't need them, instead the verb endings provide context who the subject is.
-
----
 ## ser/estar (to be)
 
-| | Present | Preterite |Future |
-|-|-|-|-|
-| yo | soy | fui | seré | 
-| tú | eres | fuiste | serás |
-| él/ella/Ud. | es | fue| será | 
-|nosotros/as | somos | fuimos| seremos | 
-|vosotros/as | sois | fuisteis|seréis |
-| ellos/ellas/Uds. | son | fueron| serán |
+| |Present|Preterite|Imperfect|Conditional|Future|
+|-|-|-|-|-|-|
+| yo | soy | fui | era | sería | seré | 
+| tú | eres | fuiste | eras | serías | serás |
+| él/ella/Ud. | es | fue| era | sería | será | 
+|nosotros/as | somos | fuimos| éramos | seríamos | seremos | 
+|vosotros/as | sois | fuisteis | erais | seríais | seréis |
+| ellos/ellas/Uds. | son | fueron| eran | serían | serán |
 
 **Ser** is used to talk about permanent or lasting attributes. Such as **DOCTOR** (*Description, Occupation, Characteristics, Time, Origin, Relationship*).
 #### 1. Descriptions
@@ -80,20 +59,3 @@ family ties, friendship, romantic relationship, etc.
 |-|
 | Lynne **es** mi madre..<br><sub>*Lynne is my mother.*</sub>|
 | Juana **es** mi jefe.<br><sub>*Juana is my boss.*</sub>|
------
-## estar
-
-| | Present | Preterite | Future |
-|-|-|-|-|
-|yo|estoy|estuve|estaré|
-|tú|estás|estuviste|estarás|
-|él/ella/Ud.|está|estuvo|estará|
-|nosotros/as|estamos|estuvimos|estaremos|
-|vosotros/as|estáis|estuvisteis|estaréis|
-|ellos/ellas/Uds.|están|estuvieron|estarán|
-
-**Estar** is used to indicate temporary states and location. Think about: **PLACE** (*Position, Location, Action, Condition, Emotion*).
-
-
-
-## tener

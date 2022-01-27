@@ -102,6 +102,22 @@ are words that replace nouns.
 
     *who*, *which* or *that* which links two parts of a sentence together.
 
+## tenses
+- **Present** - things happening now or regularly
+- **Preterite** - describes completed actions. Actions that have a definite beginning and end points. `e.g. I washed the dishes.`
+- **Imperfect** -  actions in the past that do not have a definite end; actions taht are yet to be completed or refer to a time in general in the past:
+    - actions that were repeated habitually
+    - time and dates
+    - a person's age in the past
+    - characteristics
+    - mental or physical state
+    
+    |<sub>Examples</sub>|
+    |-|
+    |**Estaba durmiendo** cuando el teléfono sonó<br><sub>*I was sleeping when the telephone rang*</sub>|
+    |Cuando **tenía** tres años, **era** muy pequeño<br><sub>*When he was three years old, he was very small*</sub>|
+- **Conditional** - used to talk about hypothetical situations
+- **Future** - used to talk about what will happen.
 
 ## verb 
 is a *doing* word that describes what someone or something *does*, *is*, or what *happens* to them.
