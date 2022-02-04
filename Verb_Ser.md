@@ -1,4 +1,4 @@
-## ser/estar (to be)
+# ser (to be)
 
 | |Present|Preterite|Imperfect|Conditional|Future|
 |-|-|-|-|-|-|
