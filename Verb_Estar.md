@@ -47,3 +47,9 @@ Physical and mental conditions. things that are likely to vary over several ours
 | Estoy tan cansada esta mañana.<br><sub>*I am so tired this morning.*</sub>|
 | Mis niños están enfermos hoy.<br><sub>*My children are sick today.*</sub>|
 | Mi padre está un poco loco.<br><sub>*My father is a little crazy.*</sub>|
+
+#### 4. Emotions
+||
+|-|
+| Estoy triste.<br><sub>*I am sad.*</sub>|
+| Ella está contenta porque recibió unas flores de su novio.<br><sub>*She is happy because she got some flowers from her boyfriend.*</sub>|
