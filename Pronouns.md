@@ -17,27 +17,3 @@ Example: *"My brother isn't here at the moment. **He**'ll be back in an hour."*
 
 In English, we use subject pronouns all the time when using verbs - *__I__ walk, __you__ eat, __they__ are going.*
 In Spanish however, we don't need them, instead the verb endings provide context who the subject is.
-
-
------
-## estar
-
-| | Present | Preterite | Future |
-|-|-|-|-|
-|yo|estoy|estuve|estaré|
-|tú|estás|estuviste|estarás|
-|él/ella/Ud.|está|estuvo|estará|
-|nosotros/as|estamos|estuvimos|estaremos|
-|vosotros/as|estáis|estuvisteis|estaréis|
-|ellos/ellas/Uds.|están|estuvieron|estarán|
-
-**Estar** is used to indicate temporary states and location. Think about: **PLACE** (*Position, Location, Action, Condition, Emotion*).
-
-#### 1. Position
-Physical position or posture of a noun.
-||
-|-|
-| Mi abuela **está** sentada.<br><sub>*My grandmother is seated.*</sub>|
-| **Estaba** acostada cuando me llamaste.<br><sub>*I was lying down when you called me.*</sub>|
-
-## tener
