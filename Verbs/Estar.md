@@ -1,4 +1,6 @@
-## estar (to be)
+## estar
+
+(ehs-tahr) spanish [verb](0Index.md) for "to be"
 
 | | Present | Preterite | Imperfect | Conditional | Future |
 |-|-|-|-|-|-|

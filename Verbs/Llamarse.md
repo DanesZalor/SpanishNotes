@@ -1,4 +1,6 @@
-# llamarse (to be called)
+# llamarse 
+
+(yah-mahr-seh) spanish [verb](0Index.md) for "to be called"
 
 ||Present|
 |-|-|

@@ -1,4 +1,6 @@
-# ser (to be)
+# ser 
+
+(sehr) spanish [verb](0Index.md) for "to be"
 
 | |Present|Preterite|Imperfect|Conditional|Future|
 |-|-|-|-|-|-|
