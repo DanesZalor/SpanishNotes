@@ -7,4 +7,4 @@
 |él/ella/Ud.|quiere|
 |nosotros/as|queremos|
 |vosotros/as|queréis|
-|ellos/ellas/Uds.|quieren|
+|ellos/ellas/Uds.|quieren| 
