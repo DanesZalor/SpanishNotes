@@ -37,6 +37,6 @@ estar + present participle
 |<sup>Examples</sup>|Verb|
 |-|-|
 |**Estoy hablando** con mi madre.<br><sub>*I am speaking to my mother*</sub>|*habl*ar|
-|Los niños están comiendo en el patio.<br><sub>*The children are eating in the yard.*</sub>|*com*er|
+|Los niños **están comiendo** en el patio.<br><sub>*The children are eating in the yard.*</sub>|*com*er|
 |**Estamos preparando** la cena.<br><sub>*We are cooking dinner.*</sub>|*prepar*ar|
 |.<br><sub>*.*</sub>|

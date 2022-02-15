@@ -15,5 +15,37 @@ Example: *"My brother isn't here at the moment. **He**'ll be back in an hour."*
 
 > **Vd.** and **Vds.** are abbreviations often used instead of **usted** and **ustedes**
 
-In English, we use subject pronouns all the time when using verbs - *__I__ walk, __you__ eat, __they__ are going.*
-In Spanish however, we don't need them, instead the verb endings provide context who the subject is.
+
+## Demonstrative pronoun
+
+### 1. Este
+Used to refer something that is **here**. Something that is close to you.
+|Singular|Plural|
+|-|-|
+|este <sub><sup>(this♂)</sup></sub>|estos <sub><sup>(these♂)</sup></sub>|
+|esta <sub><sup>(this♂)</sup></sub>|estas <sub><sup>(these♂)</sup></sub>|
+|esto <sub><sup>(this∘)</sup></sub>||
+
+> **esto** is something you say on it's own. Like when you're unsure what you're referring to so you say "What is this?"
+
+|Examples|
+|-|
+|Yo quiero **esta** aquí.<br><sub>*I want this one here.*</sub>|
+|**Este** palo.<br><sub>*This stick.*</sub>|
+|**Esta** caja.<br><sub>*This box.*</sub>|
+|¿Qué es **esto**?<br><sub>*What is this?.*</sub>|
+|¿Qué son **estos**?<br><sub>*What are these?.*</sub>|
+
+### 2. Ese
+Used to refer to something that is further away from you, but not really far away.
+|Singular|Plural|
+|-|-|
+|ese <sub><sup>(that♂)</sup></sub>|esos <sub><sup>(those♂)</sup></sub>|
+|esa <sub><sup>(that♂)</sup></sub>|esas <sub><sup>(those♂)</sup></sub>|
+|eso <sub><sup>(that∘)</sup></sub>||
+
+|Examples|
+|-|
+|¿Qué es eso?<br><sub>*What is that?*</sub>|
+|¿Qué son esos?<br><sub>*What are those?*</sub>|
+|¿Te gusta esa?<br><sub>*Do you like that one?*</sub>|
