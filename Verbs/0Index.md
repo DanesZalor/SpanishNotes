@@ -103,6 +103,8 @@ while the simple future is most often used to talk about what a person will do, 
 |Me **casaré** con un hombre guapo.<br><sub>*I will marry a handsome man.*</sub>|casar <sup><sub>(to marry)</sub></sup>|
 |**Encontrará** un trabajo bueno.<br><sub>***I will find** a good job.*</sub>|encontrar <sup><sub>(to find)</sub></sup>|
 |Si tengo tiempo, **saldré** a correr en la tarde.<br><sub>*If I have time, **I'll go** running this afternoon.*</sub>|salir <sup><sub>(to go out)</sub></sup>|
+|No **robarás**.<br><sub>*You **will** not **steal**.*</sub>|robar <sup><sub>(to steal)</sub></sup>|
+|**Obedecerás** a tus abuelos.<br><sub>***You will/shall obey** your grandparents.*</sub>|obedecer <sup><sub>(to obey)</sub></sup>|
 |.<br><sub>*.*</sub>|
 
 
