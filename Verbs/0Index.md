@@ -105,6 +105,11 @@ while the simple future is most often used to talk about what a person will do, 
 |Si tengo tiempo, **saldré** a correr en la tarde.<br><sub>*If I have time, **I'll go** running this afternoon.*</sub>|salir <sup><sub>(to go out)</sub></sup>|
 |No **robarás**.<br><sub>*You **will** not **steal**.*</sub>|robar <sup><sub>(to steal)</sub></sup>|
 |**Obedecerás** a tus abuelos.<br><sub>***You will/shall obey** your grandparents.*</sub>|obedecer <sup><sub>(to obey)</sub></sup>|
-|.<br><sub>*.*</sub>|
+
+> In spanish, it's very common for the present tense to be used to talk about future events that are certain
+> |Examples|
+> |-|
+> |Te **veo** mañana en la escuela.<br><sub>*I'll see you tomorrow at school.*</sub>|
+> |Me **caso** el 6 de mayo.<br><sub>*I am getting married on May 6.*</sub>|
 
 
