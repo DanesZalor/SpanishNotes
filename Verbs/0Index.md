@@ -69,8 +69,16 @@ conjugation for future tense, no matter if **-ar**, **-er** or **-ir**,
 |vosotros/as|-éis|
 |ellos/ellas/Uds.|-án|
 
+|subject|viajar|conocer|escrebir|
+|-|-|-|-|
+|yo|viajaré|conoceré|escribiré|
+|tú|viajarás|conocerás|escribirás|
+|él/ella/Ud.|viajará|conocerá|escribirá|
+|nosotros/as|viajaremos|conoceremos|escribiremos|
+|vosotros/as|viajaréis|conoceréis|escribiréis|
+|ellos/ellas/Uds.|viajarán|conocerán|escribirán|
+
 |Examples|
 |-|
-|Yo **comeré** la naranja.<br><sub>*I will eat.*</sub>|
 |**Amarás** tu nueva vida.<br><sub>*You will love your new life.*</sub>|
 |**Comeremos** juntos.<br><sub>*We will eat together.*</sub>|
