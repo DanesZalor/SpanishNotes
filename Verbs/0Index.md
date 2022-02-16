@@ -79,24 +79,30 @@ conjugation for future tense, no matter if **-ar**, **-er** or **-ir**,
 |ellos/ellas/Uds.|viajarán|conocerán|escribirán|
 
 #### Irregular verbs
-there's a fuckton. But they still use the same suffix. The root word is changed tho.
+there's a fuckton. But they still use the same suffix.
 
 |subject|tener|hacer|querer|
 |-|-|-|-|
-|yo|**tendr**é|
-|tú|**tendr**ás|
-|él/ella/Ud.|**tendr**á|
-|nosotros/as|**tendr**emos|
-|vosotros/as|**tendr**éis|
-|ellos/ellas/Uds.|**tendr**án|
+|yo|tendré|haré|querré|
+|tú|tendrás|harás|querrás|
+|él/ella/Ud.|tendrá|hará|querrá|
+|nosotros/as|tendremos|haremos|querremos|
+|vosotros/as|tendréis|haréis|querréis|
+|ellos/ellas/Uds.|tendrán|harán|querrán|
+
+> notice the root words have changed. tener => tendr, hacer => har and so on.
 
 
 while the simple future is most often used to talk about what a person will do, it can also be used to talk about conjecture, possibilities, and probabilities in the present, make predictions about the future, and give solemn commands.
 
-|Examples|
-|-|
-|**Amarás** tu nueva vida.<br><sub>*You will love your new life.*</sub>|
-|**Comeremos** juntos.<br><sub>*We will eat together.*</sub>|
-|Anita **estará** en la playa ahora.<br><sub>*Anita is probably at the beach right now.*</sub>|
-|Los niños tendrán hambre.<br><sub>*The children might be hungry.*</sub>|
+|Examples|verb|
+|-|-|
+|Anita **estará** en la playa ahora.<br><sub>*Anita **is probably** at the beach right now.*</sub>|
+|**Serán** las ocho de la mañana.<br><sub>*It **must be** eight o'clock in the morning.*</sub>|
+|**Estaré** aquí mañana.<br><sub>***I'll be** here tomorrow.*</sub>|
+|Me **casaré** con un hombre guapo.<br><sub>*I will marry a handsome man.*</sub>|casar <sup><sub>(to marry)</sub></sup>|
+|**Encontrará** un trabajo bueno.<br><sub>***I will find** a good job.*</sub>|encontrar <sup><sub>(to find)</sub></sup>|
+|Si tengo tiempo, **saldré** a correr en la tarde.<br><sub>*If I have time, **I'll go** running this afternoon.*</sub>|salir <sup><sub>(to go out)</sub></sup>|
+|.<br><sub>*.*</sub>|
+
 
