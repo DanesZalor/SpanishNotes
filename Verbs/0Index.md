@@ -78,7 +78,25 @@ conjugation for future tense, no matter if **-ar**, **-er** or **-ir**,
 |vosotros/as|viajaréis|conoceréis|escribiréis|
 |ellos/ellas/Uds.|viajarán|conocerán|escribirán|
 
+#### Irregular verbs
+there's a fuckton. But they still use the same suffix. The root word is changed tho.
+
+|subject|tener|hacer|querer|
+|-|-|-|-|
+|yo|**tendr**é|
+|tú|**tendr**ás|
+|él/ella/Ud.|**tendr**á|
+|nosotros/as|**tendr**emos|
+|vosotros/as|**tendr**éis|
+|ellos/ellas/Uds.|**tendr**án|
+
+
+while the simple future is most often used to talk about what a person will do, it can also be used to talk about conjecture, possibilities, and probabilities in the present, make predictions about the future, and give solemn commands.
+
 |Examples|
 |-|
 |**Amarás** tu nueva vida.<br><sub>*You will love your new life.*</sub>|
 |**Comeremos** juntos.<br><sub>*We will eat together.*</sub>|
+|Anita **estará** en la playa ahora.<br><sub>*Anita is probably at the beach right now.*</sub>|
+|Los niños tendrán hambre.<br><sub>*The children might be hungry.*</sub>|
+
