@@ -26,6 +26,21 @@ To conjugate an **-ar** verb, remove the infinitive ending (**-ar**) and add the
 |vosotros/as|habl*ais*|com*éis*|viv*ís*|
 |ellos/ellas/Uds.|habl*an*|com*en*|viv*en*|
 
+#### Irregular Yo Forms
+
+Some present **yo** conjugations undergo spelling changes
+
+- verbs that end with **-guir**, in **yo** form ends in **go**.
+- verbs that end in **-ger** or **-gir**, the **g** in the **yo** form changes to a **j**.
+
+| infinitive|*yo* form|
+|-|-|
+|extinguir <sub><sup>(to extinguish)</sup></sub>|extingo|
+|dirigir <sub><sup>(to direct)</sup></sub>|dirijo|
+|escoger <sub><sup>(to choose)</sup></sub>|escojo|
+|exigir <sub><sup>(to demand)</sup></sub>|exijo|
+|recoger <sub><sup>(to pick up)</sup></sub>|recojo|
+
 ## Regular Present progressive
 Present progressive tense / present continuous tense is used to talk about something that is happening **now**.
 
@@ -34,9 +49,28 @@ estar + present participle
 - present participle of **-ar** verbs = verb stem + **ando**
 - present participle of **-ir/-er** verbs = verb stem + **iendo**
 
-|<sup>Examples</sup>|Verb|
+|Examples|Verb|
 |-|-|
 |**Estoy hablando** con mi madre.<br><sub>*I am speaking to my mother*</sub>|*habl*ar|
 |Los niños **están comiendo** en el patio.<br><sub>*The children are eating in the yard.*</sub>|*com*er|
 |**Estamos preparando** la cena.<br><sub>*We are cooking dinner.*</sub>|*prepar*ar|
 |.<br><sub>*.*</sub>|
+
+
+## Simple Future Tense
+conjugation for future tense, no matter if **-ar**, **-er** or **-ir**,
+
+|subject|suffix|
+|-|-|
+|yo|-é|
+|tú|-ás|
+|él/ella/Ud.|-á|
+|nosotros/as|-emos|
+|vosotros/as|-éis|
+|ellos/ellas/Uds.|-án|
+
+|Examples|
+|-|
+|Yo **comeré** la naranja.<br><sub>*I will eat.*</sub>|
+|**Amarás** tu nueva vida.<br><sub>*You will love your new life.*</sub>|
+|**Comeremos** juntos.<br><sub>*We will eat together.*</sub>|
