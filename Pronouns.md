@@ -6,8 +6,7 @@ Example: *"My brother isn't here at the moment. **He**'ll be back in an hour."*
 |-|-|-|-|
 | yo | I | nosotros<br>nosotras | we<sup>♂</sup><br>we<sup>♀</sup>| 
 | tú | you | vosotros<br>vosotras | you<sup>♂</sup><br>you<sup>♀</sup> |
-| él<br>ella | he<br>she | ellos<br>ellas | they<sup>♂</sup><br>they<sup>♀</sup> |
-| usted (Vd.) | you | ustedes (Vds.) | you |
+| él<br>ella<br>usted (Vd.) | he<br>she<br>formal | ellos<br>ellas<br>Ustedes (Uds.) | they<sup>♂</sup><br>they<sup>♀</sup><br>formal |
 
 > **tú** (you) and **él** (he) has an accent, not to be confused with **tu** (your) and **el** (the).
 
