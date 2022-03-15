@@ -12,7 +12,7 @@ Present participle
 
 Spanish simple present tense(**el presente** or **el presente del indicativo**) can be used to talk about habitual actions, routines, thins happening now or in the near future, universal truths, facts, hypotheticals, lapses of time, and for ordering in restaurants and stores.
 
-## Regular Present Indicative forms
+# Regular Present Indicative forms
 **-ar**, **-er**, and **-ir** verbs.
 
 To conjugate an **-ar** verb, remove the infinitive ending (**-ar**) and add the ending that matches the subject. This works the same with **-er** and **-ir**. 
@@ -41,7 +41,7 @@ Some present **yo** conjugations undergo spelling changes
 |exigir <sub><sup>(to demand)</sup></sub>|exijo|
 |recoger <sub><sup>(to pick up)</sup></sub>|recojo|
 
-## Regular Present progressive
+# Regular Present progressive
 Present progressive tense / present continuous tense is used to talk about something that is happening **now**.
 
 ##### Present Progressive Formula
@@ -57,7 +57,7 @@ estar + present participle
 |.<br><sub>*.*</sub>|
 
 
-## Simple Future Tense
+# Simple Future Tense
 conjugation for future tense, no matter if **-ar**, **-er** or **-ir**,
 
 |subject|suffix|
@@ -71,24 +71,24 @@ conjugation for future tense, no matter if **-ar**, **-er** or **-ir**,
 
 |subject|viajar|conocer|escrebir|
 |-|-|-|-|
-|yo|viajaré|conoceré|escribiré|
-|tú|viajarás|conocerás|escribirás|
-|él/ella/Ud.|viajará|conocerá|escribirá|
-|nosotros/as|viajaremos|conoceremos|escribiremos|
-|vosotros/as|viajaréis|conoceréis|escribiréis|
-|ellos/ellas/Uds.|viajarán|conocerán|escribirán|
+|yo|viajar**é**|conocer**é**|escribir**é**|
+|tú|viajar**ás**|conocer**ás**|escribir**ás**|
+|él/ella/Ud.|viajar**á**|conocer**á**|escribir**á**|
+|nosotros/as|viajar**emos**|conocer**emos**|escribir**emos**|
+|vosotros/as|viajar**éis**|conocer**éis**|escribir**éis**|
+|ellos/ellas/Uds.|viajar**án**|conocer**án**|escribir**án**|
 
 #### Irregular verbs
 there's a fuckton. But they still use the same suffix.
 
 |subject|tener|hacer|querer|
 |-|-|-|-|
-|yo|tendré|haré|querré|
-|tú|tendrás|harás|querrás|
-|él/ella/Ud.|tendrá|hará|querrá|
-|nosotros/as|tendremos|haremos|querremos|
-|vosotros/as|tendréis|haréis|querréis|
-|ellos/ellas/Uds.|tendrán|harán|querrán|
+|yo|tendr**é**|har**é**|querr**é**|
+|tú|tendr**ás**|har**ás**|querr**ás**|
+|él/ella/Ud.|tendr**á**|har**á**|querr**á**|
+|nosotros/as|tendr**emos**|har**emos**|querr**emos**|
+|vosotros/as|tendr**éis**|har**éis**|querr**éis**|
+|ellos/ellas/Uds.|tendr**án**|har**án**|querr**án**|
 
 > notice the root words have changed. tener => tendr, hacer => har and so on.
 
@@ -113,3 +113,105 @@ while the simple future is most often used to talk about what a person will do, 
 > |Me **caso** el 6 de mayo.<br><sub>*I am getting married on May 6.*</sub>|
 
 
+# Conditional Simple
+
+expresses the feeling of future uncertainty like *"He would be here.", *"They would arrive"*. 
+
+|subject|suffix|
+|-|-|
+|yo|-ía|
+|tú|-ías|
+|él/ella/Ud.|-ía|
+|nosotros/as|-íamos|
+|vosotros/as|-íais|
+|ellos/ellas/Uds.|-ían|
+
+Regular verb conjugation for **-ar**, **-er** and **-ir**.
+
+|subject|viajar|conocer|escrebir|
+|-|-|-|-|
+|yo|viajar**ía**|conocer**ía**|escribir**ía**|
+|tú|viajar**ías**|conocer**ías**|escribir**ías**|
+|él/ella/Ud.|viajar**ía**|conocer**ía**|escribir**ía**|
+|nosotros/as|viajar**íamos**|conocer**íamos**|escribir**íamos**|
+|vosotros/as|viajar**íais**|conocer**íais**|escribir**íais**|
+|ellos/ellas/Uds.|viajar**ían**|conocer**ían**|escribir**ían**|
+
+|<sub>Exampes</sub>|
+|-|
+|**Compraría** esa camisa.<br><sup><sub>***I would buy** that shirt.*</sub></sup>|
+|**Sacaría** la basura por ti.<br><sup><sub>*He would take out the trash for you.*</sub></sup>|
+|Si fuera rico, **viajaría** por todo el mundo.<br><sup><sub>*If I were rich, **I would travel** all over the world.*</sub></sup>|
+
+
+#### Irregular Conditional verbs
+
+Remember that the irregular verbs in the simple future are also irregular in the simple conditional. One example is **tener**.
+|subject|tener conjugation|
+|-|-|
+|yo|tendr**ía**|
+|tú|tendr**ías**|
+|él/ella/Ud.|tendr**ía**|
+|..|..|
+
+Other verbs like **tener** include
+|infinitive|conditional stem|
+|-|-|
+|poner|pondr-|
+|valer|vadr-|
+|salir|saldr-|
+|venir|vendr-|
+
+|<sub>Exampes</sub>|
+|-|
+|Usted **tendría** unsa casa nueva.<br><sup><sub>***You would have** a new house.*</sub></sup>|
+|Valdría mil dólares.<br><sup><sub>***It would be worth** $1000.*</sub></sup>|
+
+
+# Presente Perfecto
+
+Present Perfect is used to indicate about something that's been recently completed: *"I can't go out for dinner because I have eaten"*
+
+Or something that we talk about that was true in the past and is still true today: *"I have lived here for 10 years."*
+
+For more information about the difference of Past Tense and Present Perfect, click [here](https://www.britannica.com/dictionary/eb/qa/Present-Perfect-and-Simple-Past-Verb-Tenses).
+
+To conjugate present perfect, first, conjure **haber** at present time. <br>
+**haber** - to have (done something)
+
+|subject|haber|
+|-|-|
+|yo|he|
+|tú|has|
+|él/ella/Ud.|ha|
+|nosotros/as|hamos|
+|vosotros/as|habéis|
+|ellos/ellas/Uds.|han|
+
+Then after that, put the past participle of the verb. Most of the past participles in Spanish are regular.
+
+|verb|past tense|
+|-|-|
+|hablar|hablado|
+|comer|comido|
+|vivir|vivido|
+
+Here are some examples
+
+|hablar <sup><sub>(to speak, talk)</sub></sup>|
+|-|
+|he hablado&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hemos hablado|
+|has hablado&nbsp;&nbsp;&nbsp;&nbsp;habéis hablado|
+|ha hablado&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;han hablado|
+
+|comer <sup><sub>(to eat)</sub></sup>|
+|-|
+|he comido&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hemos comido|
+|has comido&nbsp;&nbsp;&nbsp;&nbsp;habéis comido|
+|ha comido&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;han comido|
+
+|comer <sup><sub>(to eat)</sub></sup>|
+|-|
+|he vivido&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hemos vivido|
+|has vivido&nbsp;&nbsp;&nbsp;&nbsp;habéis vivido|
+|ha vivido&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;han vivido|
